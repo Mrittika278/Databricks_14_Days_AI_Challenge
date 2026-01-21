@@ -81,6 +81,10 @@ I experimented with multiple operations on a sample dataset, including:
 Running these operations helped reinforce how PySpark handles data efficiently at scale.
 
 ---
+I also learnt some new concepts like Data skew and Salting,which helped me to understand and solve real world data issues.
+DATA SKEW : When performing a join, A particular data is present in more than 90% of rows and thus all these huge amount of data is sent to the system usibg a single executor node,while all other nodes sit idle.this makes the system to slow down and may even crash in large datasets and thus the job takes too much of its time to finish its execution .To avoid this we introduce SALTING.
+
+SALTING : we add random numbers into the dataset to spread out the load and minimize the concentration on one particular node,this splits the job in multiple executor nodes and job gets done quickly.
 
 ## My Key Takeaway from Day 3
 
