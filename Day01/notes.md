@@ -63,3 +63,6 @@ These examples made me realize that Databricks is not just a “big data tool”
 ## My Key Takeaway from Day 1
 
 What stood out to me most is that **Databricks simplifies large-scale data work without sacrificing performance**. It bridges the gap between raw data storage and high-speed analytics, which explains why it is widely adopted across industries.
+
+
+@Databricks, @Codebasics and @indiandataclub along with #DatabricksWithIDC
