@@ -1,6 +1,6 @@
 # Databricks_14_Days_AI_Challenge
-My daily learning log and hands-on practice from the 14-Day Databricks AI Challenge.
-This repository documents my learning and hands-on practice during the 14-Day Databricks AI Challenge.
+This repository documents My daily learning log and hands-on practice from the 14-Day Databricks AI Challenge.
+ 
 
 ## Objective
 - Understand Databricks fundamentals
